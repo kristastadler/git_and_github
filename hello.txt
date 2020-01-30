@@ -3,3 +3,11 @@ it has text in it
 yay!
 
 My name is Krista. I am learning Ruby.
+
+I like to cook. Here is a recipe:
+
+Scrambled Eggs
+
+Ingredients:
+
+Directions:
