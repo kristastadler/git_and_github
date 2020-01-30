@@ -9,5 +9,14 @@ I like to cook. Here is a recipe:
 Scrambled Eggs
 
 Ingredients:
+Eggs
+Milk
+Salt
+Pepper
 
 Directions:
+1. Add eggs, milk, salt, and pepper to bowl
+2. Mix with whisk
+3. Pour mixture into hot skillet
+4. Cook, stirring occasionally
+5. Eat delicious scrambled eggs.
