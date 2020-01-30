@@ -1,0 +1,3 @@
+this is a new document
+it has text in it
+yay!
