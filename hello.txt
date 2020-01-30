@@ -1,3 +1,5 @@
 this is a new document
 it has text in it
 yay!
+
+My name is Krista. I am learning Ruby.
